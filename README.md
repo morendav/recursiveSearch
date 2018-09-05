@@ -12,7 +12,9 @@ The script will require at least one, no more than two of the following options:
 
 
 > -i          Input file containing comma separate search terms to iterate through
+
 > -d          Search directory parent - through which the recursive search should be performed
+
 > -help       Utility help and usage info
 
 
